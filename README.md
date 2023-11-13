@@ -2,8 +2,8 @@
 
 
 
+![Screenshot (196)](https://github.com/ArnabDey1543/Kanban-dashboard/assets/81821430/6eca1408-c07f-4208-89f3-f824c5e68ba2)
 
-![preview](https://user-images.githubusercontent.com/16454253/187617291-a1ef81d1-9149-43bb-a6f4-5056cd602236.png)
 
 
 
